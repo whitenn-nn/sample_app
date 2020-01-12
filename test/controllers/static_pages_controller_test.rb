@@ -25,3 +25,4 @@ class StaticPagesControllerTest < ActionDispatch::IntegrationTest
   end
   
 end
+# --
